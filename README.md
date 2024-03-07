@@ -20,7 +20,7 @@ I'm primarily interested in full-stack development or backend development and I 
 
 I'm fascinated by products, big or small, that have a high positive impact on other's lives. I've worked on industry-leading services as well as apps that have high user traffic. I have contributed to major feature launches, observability and pipelines for infrastructure, and high trafficked API's that were customer-facing.
 
-Outside of work, I'm interested in following the developments of science - robotics,  I also play a lot of video games and make tech-related TikToks (470,000 followers and counting).
+Outside of work, I'm interested in following the developments of science - robotics,  I also play a lot of video games, dabble with anime, and cook day and day out. 
 
 Currently working on: an app to help me choose what to cook for the day! 🧑‍🍳 
 
